@@ -6,7 +6,11 @@ A practice of gradient descent.
 Start the program
 ```
 python GradientDescent.py <TrainDataFile> <TestDataFile> <LearningRate> <Iterations>
+```
+```
 python StochasticGradientdescent.py <TrainDataFile> <TestDataFile> <LearningRate> <Iterations>
+```
+```
 python GDvsSGD.py <TrainDataFile> <TestDataFile> <GDLearningRate> <GDIterations> <SGDLearningRate> <SGDIterations>
 ```
 
